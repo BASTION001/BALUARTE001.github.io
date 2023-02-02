@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_7 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v4_70 {
+  width: 188px;
+  background: url("../images/v4_70.png");
+  opacity: 1;
+  position: absolute;
+  top: 103px;
+  left: 855px;
+  border: 8px solid rgba(255,255,255,1);
+}
